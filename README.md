@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @matcarpes. I'm an engineer from Brazil who is currently diving into Data Engineering, Data Science, Machine Learning and Business Intelligence. I intend to enroll in a MBA in Big Data Analytics in the 2nd semester of 2021.
+- 👋 Hi, I’m @matcarpes. I'm an engineer from Brazil who is currently diving into Data Engineering, Data Science, Machine Learning and Business Intelligence. I'll begin a MBA in Data Science and Analytics at USP at the end of October 2021.
 
 - 🌱 I’m currently learning programming languages such as SQL, Python and R, as well as taking online courses about various Data Science related subjects.
 
