@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @matcarpes. I'm an engineer from Brazil who is currently diving into Data Engineering, Data Science, Machine Learning and Business Intelligence. I'll begin a MBA in Data Science and Analytics at USP at the end of October 2021.
+- 👋 Hi, I’m @matcarpes. I'm a data analyst / data scientist from Brazil. I'm pursuing an MBA in Data Science and Analytics at University of Sao Paulo and I have a bachelor's degree in Electrical Engineering.
 
-- 🌱 I’m currently learning programming languages such as SQL, Python and R, as well as taking online courses about various Data Science related subjects.
+- 🌱 I work with programming languages such as SQL, Python, R and SAS, visualization tools like Microsoft Power Bi and SAS Visual Analytics and learning about various data analysis methodologies. 
 
-- 📫 You can reach me out at [matcarpes@gmail.com](mailto:matcarpes@gmail.com) or my [LinkedIn](https://www.linkedin.com/in/eng-matheus-carpes-proen%C3%A7a/?locale=en_US)
+- 📫 You can reach me out at [matcarpes@gmail.com](mailto:matcarpes@gmail.com) or my [LinkedIn](https://www.linkedin.com/in/matheus-carpes-proenca/?locale=en_US)
 
 <!---
 matcarpes/matcarpes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
